@@ -538,6 +538,34 @@
     "manga_original": false,
     "director": "Hiroyuki Imaishi",
     "disponible": true
-  }
+  },
+  {
+  "codigo": 3021,
+  "titulo": "Black Clover",
+  "titulo_original": "ブラッククローバー",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Black_Clover_logo.svg/1280px-Black_Clover_logo.svg.png",
+  "genero": "Acción/Fantasía ✨",
+  "estudio": "Pierrot",
+  "sinopsis": "Asta, un joven nacido sin magia en un mundo donde esta lo es todo, pretende convertirse en el Rey Mago para demostrar que cualquiera puede alcanzar sus sueños.",
+  "imagen": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg",
+  "episodios": 170,
+  "temporadas": 4,
+  "año_estreno": 2017,
+  "año_finalizacion": 2021,
+  "estado": "Finalizado",
+  "demografia": "Shonen",
+  "generos": ["Acción", "Comedia", "Fantasía", "Magia", "Shonen"],
+  "tags": ["magia", "aventura", "rivalidad", "reino", "demonios", "superación"],
+  "rating_mal": 8.11,
+  "miembros_mal": 1850000,
+  "plataformas": ["Crunchyroll", "Netflix", "Funimation"],
+  "idiomas_dub": ["Japonés", "Inglés", "Español", "Portugués", "Alemán"],
+  "clasificacion_edad": "PG-13",
+  "duracion_episodio": 23,
+  "manga_original": true,
+  "director": "Tatsuya Yoshihara",
+  "disponible": true
+}
 
 ]
+
